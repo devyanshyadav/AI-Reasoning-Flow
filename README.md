@@ -32,7 +32,7 @@ Before running the project, ensure you have the following:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/ai-reasoning-flow.git
+   git clone https://github.com/devyanshyadav/ai-reasoning-flow.git
    cd ai-reasoning-flow
    ```
 

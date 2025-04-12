@@ -180,6 +180,7 @@ export default function App() {
               Try asking: "What are the implications of quantum computing for
               cryptography?"
             </div>
+            <a href="https://github.com/devyanshyadav/AI-Reasoning-Flow" target="_blank" className="mt-1 underline text-indigo-500 text-sm">Github</a>
           </div>
 
           {steps.length === 0 && !isProcessing ? (
